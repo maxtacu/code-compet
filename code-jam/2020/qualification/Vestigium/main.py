@@ -1,6 +1,6 @@
 import sys
 # to execute:
-# cat test.txt | python main.py
+# cat input.txt | python main.py
 
 # read the input
 input_data = sys.stdin.readlines()
